@@ -22,4 +22,4 @@ To Debug in .Net using Visual Studio, place a breakpoint by clicking on the grey
 3. Use the following keyboard shortcuts to debug code
 	a. Fn + F10 : Debug the next line of code
 	b. Fn + F11 : Debug (Step) inside the function call
-	c. Fn + Shift + F10: You do not want to debug the code below, so you want to let the code execute normally and only start debugging after the current function execution completes. This is known as Step Out (Start debugging outside the existing function)
+	c. Fn + Shift + F11: You do not want to debug the code below, so you want to let the code execute normally and only start debugging after the current function execution completes. This is known as Step Out (Start debugging outside the existing function)
