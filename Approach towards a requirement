@@ -1,0 +1,25 @@
+Notes:
+
+Approach a requirement
+
+1. Write it down in notepad. Take part of the requirement, break it down into classes, properties, methods. If there are multiple classes, check if the classes are related to each other.
+
+2. At this stage, start the boiler plate code. This means, create the skeleton structure.
+Eg: Create the classes, properties and empty functions as decoded in step 1.
+
+3. Start coding the logic.
+4. Write the logic to display the output in the correct file and project.
+=================================================
+APPROACH: If output is not as per expectation
+ANSWER: DEBUG
+
+To Debug in .Net using Visual Studio, place a breakpoint by clicking on the grey margin of the code editor in Visual Studio.
+
+1. Place the breakpoint where you wish to assess the code output live.
+
+2. Run your application. The execution will stop  at the breakpoint. Here you can hover over the individual properties, parameters, variables to see the live output value.
+
+3. Use the following keyboard shortcuts to debug code
+	a. Fn + F10 : Debug the next line of code
+	b. Fn + F11 : Debug (Step) inside the function call
+	c. Fn + Shift + F10: You do not want to debug the code below, so you want to let the code execute normally and only start debugging after the current function execution completes. This is known as Step Out (Start debugging outside the existing function)
